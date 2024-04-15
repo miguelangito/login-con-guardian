@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "e043",
+      "email": "miguelangelespinalospina@gmail.com",
+      "password": "dsaDSA321*"
+    }
+  ],
+  "authors": [
+    {
+      "id": "b76c",
+      "name": "miguel angel",
+      "age": "17"
+    },
+    {
+      "id": "7f19",
+      "name": "SESDF",
+      "age": "213"
+    }
+  ],
+  "books": [
+
+    {
+      "id": "d2e6",
+      "name": "ASDASD",
+      "date": "2024-01-05",
+      "authorId": "b76c"
+    }
+  ]
+}
